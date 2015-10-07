@@ -1,0 +1,8 @@
+{
+  "node": true,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "Promise": false
+  }
+}
